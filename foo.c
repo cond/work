@@ -1,5 +1,5 @@
 /*
-  foo.c
+  foo.c -- Testing
 */
 
 #include <stdio.h>
